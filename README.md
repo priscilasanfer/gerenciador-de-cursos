@@ -12,8 +12,12 @@ Aulas:
 - Remover elementos de um Arraylist
 - Ordenar um arraylist usando o sort da Colletions
 - Acessar elementos da lista
+- Percorrer a lista usando for, foreach e o metodo forEach com lambdas
 
 **Listas de objetos**
+- Reescrever o método toString 
+- Reescrever o método compareTo para ordenar uma lista de Aula
+- Ordernar uma lista sem modificar o metodo compareTo
 
 **Relacionamentos com coleções**
 
