@@ -20,6 +20,10 @@ Aulas:
 - Ordernar uma lista sem modificar o metodo compareTo
 
 **Relacionamentos com coleções**
+- Qual a melhor forma de declarar a referência (tipo) de uma nova lista, deixando ela mais generica.
+- Relacionamento de referencias 
+- Encapsulamento o acesso a aulas com o Collections.unmodifiableList(),
+- Diferença entre ArrayList e LinkedList
 
 **Mais práticas com relacionamentos**
 
