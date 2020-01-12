@@ -8,6 +8,10 @@ Disponível em: https://cursos.alura.com.br/course/java-collections
 Aulas:  
 
 **Trabalhando com ArrayList**
+- Adicionar elementos num Arraylist
+- Remover elementos de um Arraylist
+- Ordenar um arraylist usando o sort da Colletions
+- Acessar elementos da lista
 
 **Listas de objetos**
 
