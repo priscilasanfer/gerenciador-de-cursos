@@ -32,6 +32,7 @@ Aulas:
 
 **O poder dos sets**
 - Vantagens e desvantagens do Set
+- Performance entre Arraylist e Set
 
 **Aplicando o Set no modelo**
 
