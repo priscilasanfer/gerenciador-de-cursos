@@ -2,6 +2,7 @@ package br.com.alura;
 
 import java.util.ArrayList;
 import java.util.HashSet;
+import java.util.List;
 import java.util.Set;
 
 public class TestaAluno {
@@ -29,7 +30,7 @@ public class TestaAluno {
         alunos.remove("Priscila Ferreira");
 
 //        Caso precise saber o indice da lista
-        ArrayList<String> alunosEmLista = new ArrayList<>(alunos);
+        List<String> alunosEmLista = new ArrayList<>(alunos);
 
 
     }
